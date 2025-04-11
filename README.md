@@ -16,6 +16,11 @@ A Java application to manage student records using arrays of objects, supporting
 ## 🚀 How to Run
 
 1. **Clone the repository**
+      ```bash
+        git clone https://github.com/Tinyu01/StudentRecordSystem.git
+        cd StudentRecordSystem
+    ```  
+
 2. **Compile Java files**
    ```bash
    javac src/com/lesson/lab/*.java -d out/
