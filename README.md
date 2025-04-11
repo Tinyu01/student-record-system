@@ -1,6 +1,3 @@
-Here's a well-formatted `README.md` in Markdown for your **Student Record Management System** project:
-
-```markdown
 # Student Record Management System
 
 A Java application to manage student records using arrays of objects, supporting **add**, **remove**, **update**, and **display** operations.
